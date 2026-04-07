@@ -6,6 +6,8 @@ Projeto minimo para publicar uma pagina simples no Azure Web App.
 
 - [Node.js](https://nodejs.org/) versao 18 ou superior
 - Um editor de codigo (recomendado: [VS Code](https://code.visualstudio.com/))
+- Git (opcional, para clonar o codigo do GitHub).
+	- Download: https://git-scm.com/downloads
 
 Para verificar se ja tem o Node instalado, abra o terminal e rode:
 
